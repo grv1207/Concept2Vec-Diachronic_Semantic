@@ -1,0 +1,200 @@
+2018-06-12 18:05:19,825 line with length 3 27725764|2016|Implementation of the Twenty-First Century Communications and Video Accessibility Act of 2010, Section 105, Relay Services for Deaf-Blind Individuals. Final rule.
+
+2018-06-12 18:05:20,004 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293117441
+2018-06-12 18:05:20,008 line with length 3 27726316|2016|Schedules of Controlled Substances: Placement of Three Synthetic Phenethylamines Into Schedule I. Final rule.
+
+2018-06-12 18:05:20,028 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293117991
+2018-06-12 18:05:20,028 line with length 3 27726319|2016|Medication Assisted Treatment for Opioid Use Disorders Reporting Requirements. Final rule.
+
+2018-06-12 18:05:20,028 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293117994
+2018-06-12 18:05:20,028 line with length 3 27726321|2016|Medical Devices; Neurological Devices; Classification of the Evoked Photon Image Capture Device. Final order.
+
+2018-06-12 18:05:20,028 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293117997
+2018-06-12 18:05:20,083 line with length 3 27731614|2016|Medical Devices; Exemption From Premarket Notification: Method, Metallic Reduction, Glucose (Urinary, Nonquantitative) Test System in a Reagent Tablet Format. Final order.
+
+2018-06-12 18:05:20,083 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293123285
+2018-06-12 18:05:20,083 line with length 3 27731615|2016|Medical Devices; Exemption From Premarket Notification; Method, Metallic Reduction, Glucose (Urinary, Nonquantitative) Test System in a Reagent Tablet Format. Final order.
+
+2018-06-12 18:05:20,083 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293123287
+2018-06-12 18:05:20,085 line with length 3 27731960|2016|Medicare and Medicaid Programs; Reform of Requirements for Long-Term Care Facilities. Final rule.
+
+2018-06-12 18:05:20,086 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293123633
+2018-06-12 18:05:20,086 line with length 3 27731962|2016|Additions and Modifications to the List of Drug Products That Have Been Withdrawn or Removed From the Market for Reasons of Safety or Effectiveness. Final rule.
+
+2018-06-12 18:05:20,086 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293123636
+2018-06-12 18:05:20,421 line with length 3 27766828|2016|Zoonotic influenza viruses: antigenic and genetic characteristics and development of candidate
+
+2018-06-12 18:05:20,429 error: invalid literal for int() with base 10: 'Switzerland', line: vaccine viruses for pandemic preparedness.|Switzerland|
+, lineNo : 293158327
+2018-06-12 18:05:20,438 line with length 3 27768266|2016|Procedures for the Handling of Retaliation Complaints Under Section 1558 of the Affordable Care Act. Final rule.
+
+2018-06-12 18:05:20,439 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293159765
+2018-06-12 18:05:21,902 line with length 3 27892665|2016|Thyroid Function after Postoperative Radiation Therapy in
+
+2018-06-12 18:05:21,938 error: invalid literal for int() with base 10: 'Thailand', line: Patients with Breast Cancer|Thailand|
+, lineNo : 293281844
+2018-06-12 18:05:21,939 line with length 3 27892666|2016|Mantle Cell Lymphoma: A North Indian Tertiary Care Centre
+
+2018-06-12 18:05:21,939 error: invalid literal for int() with base 10: 'Thailand', line: Experience|Thailand|
+, lineNo : 293281846
+2018-06-12 18:05:21,939 line with length 3 27892667|2016|Area-to-Area Poisson Kriging and Spatial Bayesian Analysis
+
+2018-06-12 18:05:21,939 error: invalid literal for int() with base 10: 'Thailand', line: in Mapping of Gastric Cancer Incidence in Iran|Thailand|
+, lineNo : 293281848
+2018-06-12 18:05:21,939 line with length 3 27892670|2016|Impact of Adjuvant Chemotherapy in Elderly Breast Patients
+
+2018-06-12 18:05:21,940 error: invalid literal for int() with base 10: 'Thailand', line: in Taiwan, A Hospital-Based Study|Thailand|
+, lineNo : 293281852
+2018-06-12 18:05:21,940 line with length 3 27892671|2016|Association between the XRCC3 Thr241Met Polymorphism
+
+2018-06-12 18:05:21,940 error: invalid literal for int() with base 10: 'Thailand', line: and Gastrointestinal Cancer Risk: A Meta-Analysis|Thailand|
+, lineNo : 293281854
+2018-06-12 18:05:21,942 line with length 3 27892672|2016|Effects of Copper Reduction on Angiogenesis-Related Factors
+
+2018-06-12 18:05:21,943 error: invalid literal for int() with base 10: 'Thailand', line: in Recurrent Glioblastoma Cases|Thailand|
+, lineNo : 293281856
+2018-06-12 18:05:21,943 line with length 3 27892676|2016|Palliative Care for Patients with Gynecologic Cancer in Japan:
+
+2018-06-12 18:05:21,943 error: list index out of range, line: A Japan Society of Gynecologic Palliative Medicine (JSGPM)
+, lineNo : 293281861
+2018-06-12 18:05:21,943 error: invalid literal for int() with base 10: 'Thailand', line: Survey|Thailand|
+, lineNo : 293281862
+2018-06-12 18:05:21,944 line with length 3 27892682|2016|Can Serum ICAM 1 distinguish pancreatic cancer from chronic
+
+2018-06-12 18:05:21,946 error: invalid literal for int() with base 10: 'Thailand', line: pancreatitis?|Thailand|
+, lineNo : 293281869
+2018-06-12 18:05:21,949 line with length 3 27892939|2016|Postoperative survival According to the Glasgow Prognostic
+
+2018-06-12 18:05:21,950 error: invalid literal for int() with base 10: 'Thailand', line: Score in Patients with Resected Lung Adenocarcinoma|Thailand|
+, lineNo : 293282127
+2018-06-12 18:05:21,950 line with length 3 27892965|2016|Diabetes Mellitus and Risk of Colorectal Cancer Mortality in
+
+2018-06-12 18:05:21,950 error: invalid literal for int() with base 10: 'Thailand', line: Japan: the Japan Collaborative Cohort Study|Thailand|
+, lineNo : 293282154
+2018-06-12 18:05:21,953 line with length 3 27893198|2016|Clinical Application of Ultrasound-Guided Thyroid Fine Needle
+
+2018-06-12 18:05:21,953 error: list index out of range, line: Aspiration Biopsy and Thinprep Cytology Test in Diagnosis of
+, lineNo : 293282385
+2018-06-12 18:05:21,953 error: invalid literal for int() with base 10: 'Thailand', line: Thyroid Disease|Thailand|
+, lineNo : 293282386
+2018-06-12 18:05:21,954 line with length 3 27893199|2016|Prognostic Factors in Stage III Non-Small-Cell Lung Cancer
+
+2018-06-12 18:05:21,954 error: invalid literal for int() with base 10: 'Thailand', line: Patients|Thailand|
+, lineNo : 293282388
+2018-06-12 18:05:21,954 line with length 3 27893200|2016|Clinical Impact of Overexpression of FOXP3 and WT1 on
+
+2018-06-12 18:05:21,955 error: invalid literal for int() with base 10: 'Thailand', line: Disease Outcome in Egyptian Acute Myeloid Leukemia Patients|Thailand|
+, lineNo : 293282390
+2018-06-12 18:05:21,955 line with length 3 27893201|2016|Effects of Tobacco Smoking on the Dorsum of the Tongue and
+
+2018-06-12 18:05:21,956 error: invalid literal for int() with base 10: 'Thailand', line: Buccal Epithelium|Thailand|
+, lineNo : 293282392
+2018-06-12 18:05:21,957 line with length 3 27893202|2016|Role of GSTM1 Copy Number Variant in the Prognosis of
+
+2018-06-12 18:05:21,957 error: list index out of range, line: Thai Colorectal Cancer Patients Treated with 5-FU-based
+, lineNo : 293282394
+2018-06-12 18:05:21,958 error: invalid literal for int() with base 10: 'Thailand', line: Chemotherapy|Thailand|
+, lineNo : 293282395
+2018-06-12 18:05:21,958 line with length 3 27893203|2016|High Mortality Rate of Stomach Cancer Caused Not by High
+
+2018-06-12 18:05:21,958 error: invalid literal for int() with base 10: 'Thailand', line: Incidence but Delays in Diagnosis in Aomori Prefecture, Japan|Thailand|
+, lineNo : 293282397
+2018-06-12 18:05:21,959 line with length 3 27893205|2016|Patterns of Recurrence after Resection of Mass-Forming Type
+
+2018-06-12 18:05:21,959 error: invalid literal for int() with base 10: 'Thailand', line: Intrahepatic Cholangiocarcinomas|Thailand|
+, lineNo : 293282400
+2018-06-12 18:05:21,959 line with length 3 27893206|2016|No Significant Association between Human Papillomavirus
+
+2018-06-12 18:05:21,959 error: invalid literal for int() with base 10: 'Thailand', line: and Breast Cancer, Sanandaj, Iran|Thailand|
+, lineNo : 293282402
+2018-06-12 18:05:22,179 line with length 3 27905814|2016|Medicare and Medicaid Programs; CY 2017 Home Health Prospective Payment System Rate Update; Home Health Value-Based Purchasing Model; 
+
+2018-06-12 18:05:22,180 error: invalid literal for int() with base 10: 'United States', line: and Home Health Quality Reporting Requirements. Final rule.|United States|
+, lineNo : 293294893
+2018-06-12 18:05:22,214 line with length 3 27905888|2016|Medicare Program; End-Stage Renal Disease Prospective Payment System, Coverage and Payment for Renal Dialysis Services Furnished to Individuals With Acute Kidney Injury, End-Stage Renal Disease Quality Incentive Program, Durable Medical Equipment, Prosthetics, Orthotics and Supplies Competitive Bidding Program Bid Surety Bonds, State Licensure and Appeals Process for Breach of Contract Actions, Durable Medical Equipment, Prosthetics, Orthotics and Supplies Competitive 
+
+2018-06-12 18:05:22,216 error: invalid literal for int() with base 10: 'United States', line: Bidding Program and Fee Schedule Adjustments, Access to Care Issues for Durable Medical Equipment; and the Comprehensive End-Stage Renal Disease Care Model. Final rule.|United States|
+, lineNo : 293294968
+2018-06-12 18:05:22,487 line with length 3 27922031|2016|Meeting of the Strategic Advisory Group of Experts on immunization, October 2016 –
+
+2018-06-12 18:05:22,488 error: invalid literal for int() with base 10: 'Switzerland', line: conclusions and recommendations.|Switzerland|
+, lineNo : 293310997
+2018-06-13 13:07:03,059 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293117441
+2018-06-13 13:07:03,170 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293117991
+2018-06-13 13:07:03,198 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293117994
+2018-06-13 13:07:03,206 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293117997
+2018-06-13 13:07:03,249 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293123285
+2018-06-13 13:07:03,257 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293123287
+2018-06-13 13:07:03,269 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293123633
+2018-06-13 13:07:03,275 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293123636
+2018-06-13 13:07:03,882 error: invalid literal for int() with base 10: 'Switzerland', line: vaccine viruses for pandemic preparedness.|Switzerland|
+, lineNo : 293158327
+2018-06-13 13:07:03,978 error: invalid literal for int() with base 10: 'United States', line: |United States|
+, lineNo : 293159765
+2018-06-13 13:07:05,417 error: invalid literal for int() with base 10: 'Thailand', line: Patients with Breast Cancer|Thailand|
+, lineNo : 293281844
+2018-06-13 13:07:05,424 error: invalid literal for int() with base 10: 'Thailand', line: Experience|Thailand|
+, lineNo : 293281846
+2018-06-13 13:07:05,432 error: invalid literal for int() with base 10: 'Thailand', line: in Mapping of Gastric Cancer Incidence in Iran|Thailand|
+, lineNo : 293281848
+2018-06-13 13:07:05,440 error: invalid literal for int() with base 10: 'Thailand', line: in Taiwan, A Hospital-Based Study|Thailand|
+, lineNo : 293281852
+2018-06-13 13:07:05,447 error: invalid literal for int() with base 10: 'Thailand', line: and Gastrointestinal Cancer Risk: A Meta-Analysis|Thailand|
+, lineNo : 293281854
+2018-06-13 13:07:05,455 error: invalid literal for int() with base 10: 'Thailand', line: in Recurrent Glioblastoma Cases|Thailand|
+, lineNo : 293281856
+2018-06-13 13:07:05,462 error: list index out of range, line: A Japan Society of Gynecologic Palliative Medicine (JSGPM)
+, lineNo : 293281861
+2018-06-13 13:07:05,522 error: invalid literal for int() with base 10: 'Thailand', line: Survey|Thailand|
+, lineNo : 293281862
+2018-06-13 13:07:05,527 error: invalid literal for int() with base 10: 'Thailand', line: pancreatitis?|Thailand|
+, lineNo : 293281869
+2018-06-13 13:07:05,540 error: invalid literal for int() with base 10: 'Thailand', line: Score in Patients with Resected Lung Adenocarcinoma|Thailand|
+, lineNo : 293282127
+2018-06-13 13:07:05,572 error: invalid literal for int() with base 10: 'Thailand', line: Japan: the Japan Collaborative Cohort Study|Thailand|
+, lineNo : 293282154
+2018-06-13 13:07:05,583 error: list index out of range, line: Aspiration Biopsy and Thinprep Cytology Test in Diagnosis of
+, lineNo : 293282385
+2018-06-13 13:07:05,601 error: invalid literal for int() with base 10: 'Thailand', line: Thyroid Disease|Thailand|
+, lineNo : 293282386
+2018-06-13 13:07:05,610 error: invalid literal for int() with base 10: 'Thailand', line: Patients|Thailand|
+, lineNo : 293282388
+2018-06-13 13:07:05,618 error: invalid literal for int() with base 10: 'Thailand', line: Disease Outcome in Egyptian Acute Myeloid Leukemia Patients|Thailand|
+, lineNo : 293282390
+2018-06-13 13:07:05,625 error: invalid literal for int() with base 10: 'Thailand', line: Buccal Epithelium|Thailand|
+, lineNo : 293282392
+2018-06-13 13:07:05,633 error: list index out of range, line: Thai Colorectal Cancer Patients Treated with 5-FU-based
+, lineNo : 293282394
+2018-06-13 13:07:05,641 error: invalid literal for int() with base 10: 'Thailand', line: Chemotherapy|Thailand|
+, lineNo : 293282395
+2018-06-13 13:07:05,648 error: invalid literal for int() with base 10: 'Thailand', line: Incidence but Delays in Diagnosis in Aomori Prefecture, Japan|Thailand|
+, lineNo : 293282397
+2018-06-13 13:07:05,656 error: invalid literal for int() with base 10: 'Thailand', line: Intrahepatic Cholangiocarcinomas|Thailand|
+, lineNo : 293282400
+2018-06-13 13:07:05,663 error: invalid literal for int() with base 10: 'Thailand', line: and Breast Cancer, Sanandaj, Iran|Thailand|
+, lineNo : 293282402
+2018-06-13 13:07:05,821 error: invalid literal for int() with base 10: 'United States', line: and Home Health Quality Reporting Requirements. Final rule.|United States|
+, lineNo : 293294893
+2018-06-13 13:07:05,828 error: invalid literal for int() with base 10: 'United States', line: Bidding Program and Fee Schedule Adjustments, Access to Care Issues for Durable Medical Equipment; and the Comprehensive End-Stage Renal Disease Care Model. Final rule.|United States|
+, lineNo : 293294968
+2018-06-13 13:07:05,980 error: invalid literal for int() with base 10: 'Switzerland', line: conclusions and recommendations.|Switzerland|
+, lineNo : 293310997
+2018-06-13 13:07:06,316 293347610 records completed
+2018-06-13 13:08:18,769 10000000  records dumped
